@@ -8,12 +8,15 @@ so that why var is vary rearly used in programming*/
 
 let accountEmail = "anupsah2005@gmail.com"
 
-var accountPasswod = "Anubhav789456"
 //var is global scope so that why it can be access from any where in the program
+
+var accountPasswod = "Anubhav789456"
+
 
 
 //we can declare variable without using let and var also we can declare variable without using const also
 //but it is unsafe to use it
+
 accountCity = "Madhyamgram"
 
 
